@@ -1,0 +1,36 @@
+.counery-component{
+    background-color: #e4e2e2;
+    margin: 20px;
+    padding: 3px 10px;
+    width: 350px;
+    height: 450px;
+    float: left;
+    box-shadow: 1px 1px 8px #000000;
+    border-radius: 10px;
+}
+.countery-flag img{
+    width: 100%;
+    height: 150px;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+.countery-inforamtion{
+    
+}
+.add-country-sec{
+    width: 50%;
+    margin: 0 auto;
+    
+}
+.add-country-btn{
+    padding: 8px;
+    width: 100%;
+    margin-top: 10px;
+    border: none;
+    background-color: #3478f7;
+    color: #fff;
+    border-radius: 10px;
+}
+.add-country-btn:hover{
+    background-color: #2960c5;
+}
