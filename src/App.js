@@ -26,7 +26,7 @@ const [cart, setCart] = useState([]);
   return (
     <div className="App">
       <h3>Countries Loaded: {countries.length}</h3>
-      <h4>Country Added : {cart.length} </h4>
+      <h4>Country Added with Click : {cart.length} </h4>
       <Cart cart={cart}/>
       <div>
         {
